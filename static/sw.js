@@ -6,12 +6,12 @@ workbox.precaching.precacheAndRoute([
     "revision": "4c138706b6302e5ef1439b9d30e803cd"
   },
   {
-    "url": "/_nuxt/4b409d60a1570b9b515d.js",
-    "revision": "34b31418a57d40998ab06a7a29fa414f"
-  },
-  {
     "url": "/_nuxt/6b65d5d85b01dd836af3.js",
     "revision": "5413e4eb8a1704ff306d0e1a770c9a70"
+  },
+  {
+    "url": "/_nuxt/726de9039c62dddc146e.js",
+    "revision": "3c741d3c82d9c615ddd9f824b1e9636d"
   },
   {
     "url": "/_nuxt/d4837cab8b7e799aa791.js",
@@ -22,7 +22,7 @@ workbox.precaching.precacheAndRoute([
     "revision": "791bd575d18414cdd6fc1c640f47099a"
   }
 ], {
-  "cacheId": "pwa-news",
+  "cacheId": "nuxt",
   "directoryIndex": "/",
   "cleanUrls": false
 })
